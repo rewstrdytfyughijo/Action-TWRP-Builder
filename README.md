@@ -1,5 +1,7 @@
 ## Automated TWRP compilation based on Github Action
 
+[![Recovery Build](https://github.com/rewstrdytfyughijo/Action-TWRP-Builder/actions/workflows/Recovery%20Build.yml/badge.svg)](https://github.com/rewstrdytfyughijo/Action-TWRP-Builder/actions/workflows/Recovery%20Build.yml)
+
 ## Advertising
 
 1. OrangeFox is [here](https://github.com/azwhikaru/Action-OFRP-Builder)
